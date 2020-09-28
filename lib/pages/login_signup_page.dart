@@ -197,7 +197,7 @@ class _LoginSignupPageState extends State<LoginSignupPage> {
       width: 0.0,
     );
   }
-
+//  this app to shared on github
 //  void _showVerifyEmailSentDialog() {
 //    showDialog(
 //      context: context,
