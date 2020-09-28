@@ -1,0 +1,38 @@
+[
+  {
+   "question": "This is question number one",
+    "c1": "Choice one",
+    "c2": "Choice two",
+    "c3": "Choice three",
+    "c4": "Choice four",
+    "ans": 1,
+    "solution": "image1.jpg",
+    "video": "to.so.link.com/so.so",
+    "tags": "gate, tangedco, shakthi",
+    "difficulty": 3
+  },
+  {
+    "question": "This is question number two",
+    "c1": "Choice one",
+    "c2": "Choice two",
+    "c3": "Choice three",
+    "c4": "Choice four",
+    "ans": 1,
+    "solution": "image2.jpg",
+    "video": "to.so.link.com/so.so",
+    "tags": "gate, tangedco, shakthi",
+    "difficulty": 3
+  },
+  {
+    "question": "This is question number three",
+    "c1": "Choice one",
+    "c2": "Choice two",
+    "c3": "Choice three",
+    "c4": "Choice four",
+    "ans": 1,
+    "solution": "image2.jpg",
+    "video": "to.so.link.com/so.so",
+    "tags": "gate, tangedco, shakthi",
+    "difficulty": 3
+  }
+ ]
